@@ -1,3 +1,8 @@
+
+![Image alt](https://cdn-images-1.medium.com/max/1600/1*FYR3tjCt8qcpCm-AHZORsQ.png)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/kafka_pipeline.png)
+![Image alt](http://eng.uber.com/wp-content/uploads/2016/12/chaperone_architecture.png)
+
 .. raw:: html
 
     <p align="center"><img src="https://user-images.githubusercontent.com/16640218/34506318-84d0c06c-efe0-11e7-8831-0425772ed8f2.png" alt="Logo" width="200"/></p>
